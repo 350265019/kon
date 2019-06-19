@@ -10,3 +10,5 @@
 .env.example
 .env
 .editorconfig
+.idea/php.xml
+.idea/php.xml
