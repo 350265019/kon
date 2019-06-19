@@ -6,3 +6,7 @@
 .idea/modules.xml
 .idea/vcs.xml
 .idea/workspace.xml
+.gitattributes
+.env.example
+.env
+.editorconfig
